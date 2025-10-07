@@ -12,10 +12,6 @@ Live demo: [Markdown Previewer by jr-delfin](https://codepen.io/jr-delfin/pen/ra
 1. What It Does  
 2. Tools / Technologies Used  
 3. How It Works (Overview)  
-4. Project Structure (Standalone)  
-5. Usage / Instructions  
-6. Possible Enhancements  
-7. License
 
 ---
 
